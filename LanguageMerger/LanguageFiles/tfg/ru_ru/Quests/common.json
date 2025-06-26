@@ -1,0 +1,13 @@
+{
+    "quests.tasktype.checkmark": "Нажмите здесь, чтобы завершить этот квест/задачу",
+    "quests.tasktype.item.any": "Любой предмет типа:",
+    "quests.tasktype.lookat": "Посмотрите на:",
+    "quests.tasktype.travelto": "Отправляйтесь в:",
+
+    "quests.groups.primitive": "Примитивный Век",
+    "quests.groups.voltaic_age": "Вольтовый Век",
+    "quests.groups.space_age": "Космический Век",
+    "quests.groups.interstellar": "Межзвездный Век",
+    "quests.groups.technological_help": "Технологическая Помощь",
+    "quests.groups.tips": "Подсказки"
+}

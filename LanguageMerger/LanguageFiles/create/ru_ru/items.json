@@ -1,0 +1,17 @@
+{
+    "item.create.netherite_diving_helmet.tooltip.summary": "Вместе с _Подводным Ранцем из Синей Стали_ защищает от _экстремальной жары_. Для полного эффекта, _Ноги и Ступни_ также должны быть покрыты _Подводным Снаряжением из Синей Стали_.",
+    "item.create.netherite_backtank": "Подводный Ранец из Синей Стали",
+    "item.create.netherite_diving_helmet": "Подводный Шлем из Синей Стали",
+    "item.create.netherite_diving_boots": "Подводные Ботинки из Синей Стали",
+
+    "item.create.copper_sheet": "Медная Пластина",
+    "item.create.brass_sheet": "Латунная Пластина",
+    "item.create.golden_sheet": "Золотая Пластина",
+
+    "item.create.crushed_raw_gold": "Очищенная Золотая Руда",
+    "item.create.crushed_raw_copper": "Очищенная Медная Руда",
+    "item.create.crushed_raw_zinc": "Очищенная Цинковая Руда",
+    "item.create.crushed_raw_silver": "Очищенная Серебряная Руда",
+    "item.create.crushed_raw_tin": "Очищенная Оловянная Руда",
+    "item.create.crushed_raw_lead": "Очищенная Свинцовая Руда"
+}

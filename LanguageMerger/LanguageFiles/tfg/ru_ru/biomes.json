@@ -1,0 +1,24 @@
+{
+    "biome.tfg.nether/basalt_deltas": "Базальтовые Дельты",
+    "biome.tfg.nether/decaying_caverns": "Гниющие Пещеры",
+    "biome.tfg.nether/lush_hollow": "Пышная Пустота",
+    "biome.tfg.nether/webbed_lair": "Оплетенное Логово",
+    "biome.tfg.nether/ash_forest": "Пепельный Лес",
+    "biome.tfg.nether/lava_floes": "Лавовые Поля",
+    "biome.tfg.nether/diorite_caves": "Глубокие Пещеры",
+    "biome.tfg.nether/gabbro_caves": "Глубокие Пещеры",
+    "biome.tfg.nether/gneiss_caves": "Глубокие Пещеры",
+    "biome.tfg.nether/granite_caves": "Глубокие Пещеры",
+    "biome.tfg.nether/schist_caves": "Глубокие Пещеры",
+
+    "biome.tfg.moon/lunar_asurine_dense": "Цертусовые Поля",
+    "biome.tfg.moon/lunar_asurine_sparse": "Лазуритовые Поля",
+    "biome.tfg.moon/lunar_chorus_dense": "Плотные Заросли Хоруса",
+    "biome.tfg.moon/lunar_chorus_sparse": "Хорусный Лес",
+    "biome.tfg.moon/lunar_corals_dense": "Лунное Рифовое Море",
+    "biome.tfg.moon/lunar_corals_sparse": "Лунное Море",
+    "biome.tfg.moon/lunar_lights_dense": "Звездочеты Светоцвета",
+    "biome.tfg.moon/lunar_lights_sparse": "Кустарники Светоцвета",
+    "biome.tfg.moon/lunar_plains": "Лунные Равнины",
+    "biome.tfg.moon/lunar_sands": "Лунные Пески"
+}

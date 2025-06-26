@@ -1,0 +1,46 @@
+{
+    "material.tfg.latex": "Латекс",
+    "material.tfg.vulcanized_latex": "Вулканизированный латекс",
+    "material.tfg.fluix": "Флюкс",
+    "material.tfg.conifer_pitch": "Сосновая смола",
+
+    "material.gtceu.lactose": "Лактоза",
+
+    "material.tfg.gabbro": "Габбро",
+    "material.tfg.shale": "Сланец",
+    "material.tfg.claystone": "Глинистый сланец",
+    "material.tfg.limestone": "Известняк",
+    "material.tfg.conglomerate": "Конгломерат",
+    "material.tfg.dolomite": "Доломит",
+    "material.tfg.chert": "Кремень",
+    "material.tfg.rhyolite": "Риолит",
+    "material.tfg.dacite": "Дацит",
+    "material.tfg.slate": "Кровельный сланец",
+    "material.tfg.phyllite": "Филлит",
+    "material.tfg.schist": "Слюдяной сланец",
+    "material.tfg.gneiss": "Гнейс",
+    "material.tfg.chalk": "Мел",
+
+    "material.tfg.moon_stone": "Анортозит",
+    "material.tfg.moon_deepslate": "Норит",
+    "material.tfg.mars_stone": "Аргиллит",
+    "material.tfg.venus_stone": "Трахит",
+    "material.tfg.mercury_stone": "Коматиит",
+    "material.tfg.glacio_stone": "Фонолит",
+
+    "material.gtceu.thermochemically_treated_hardwood": "Термохимически Обработанная Древесина",
+    "material.gtceu.hardwood": "Твердая древесина",
+
+    "material.gtceu.asurine": "Азурин",
+
+    "material.tfg.compressed_nitrox": "Сжатый Нитрокс",
+    "material.tfg.compressed_heliox": "Сжатый Гелиокс",
+    "material.tfg.compressed_heliox_3": "Сжатый Гелиокс-3",
+    "material.tfg.compressed_trimix": "Сжатый 50/30/20 Тримикс",
+    "material.tfg.compressed_trimix_3": "Сжатый 50/30/20 Тримикс-3",
+
+    "material.tfg.chlorodifluoromethane": "Хлордифторметан",
+    "material.tfg.acetylene": "Ацетилен",
+    "material.tfg.1_1_1_2_tetrafluoroethane": "1,1,1,2-Тетрафторэтан",
+    "material.tfg.isobutane": "Изобутан"
+}

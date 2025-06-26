@@ -1,0 +1,54 @@
+{
+	"item.gtceu.tiny_wood_dust": "Крошечная Кучка Мягкой Древесной Пульпы",
+	"item.gtceu.small_wood_dust": "Маленькая Кучка Мягкой Древесной Пульпы",
+	"item.gtceu.wood_dust": "Мягкая Древесная Пульпа",
+
+	"item.gtceu.tiny_hardwood_dust": "Крошечная Кучка Твердой Древесной Пульпы",
+	"item.gtceu.small_hardwood_dust": "Маленькая Кучка Твердой Древесной Пульпы",
+	"item.gtceu.hardwood_dust": "Твердая Древесная Пульпа",
+
+	"item.gtceu.tiny_thermochemically_treated_hardwood_dust": "Крошечная Кучка Термохимически Обработанной Твердой Древесной Пульпы",
+	"item.gtceu.small_thermochemically_treated_hardwood_dust": "Маленькая Кучка Термохимически Обработанной Твердой Древесной Пульпы",
+	"item.gtceu.thermochemically_treated_hardwood_dust": "Термохимически Обработанная Твердая Древесная Пульпа",
+	"item.gtceu.tool.behavior.canoe_creator": "§5Каноист: §fМожет Создавать Каноэ",
+
+	"item.gtceu.deepslate_dust": "Мигматитовая Пыль",
+	"item.gtceu.blackstone_dust": "Пироксенитовая Пыль",
+
+	"item.gtceu.iron_ring": "Кольцо из Чугуна",
+	"item.gtceu.small_iron_gear": "Малая Шестерня из Чугуна",
+	"item.gtceu.iron_gear": "Шестерня из Чугуна",
+	"item.gtceu.iron_plate": "Плита из Чугуна",
+	"item.gtceu.double_iron_plate": "Двойная Плита из Чугуна",
+	"item.gtceu.iron_rod": "Стержень из Чугуна",
+	"item.gtceu.long_iron_rod": "Длинный Стержень из Чугуна",
+	"item.gtceu.iron_rotor": "Ротор из Чугуна",
+	"item.gtceu.iron_spring": "Пружина из Чугуна",
+	"item.gtceu.small_iron_spring": "Малая Пружина из Чугуна",
+	"item.gtceu.iron_bolt": "Болт из Чугуна",
+	"item.gtceu.iron_screw": "Винт из Чугуна",
+	"item.gtceu.iron_turbine_blade": "Турбинная Лопасть из Чугуна",
+	"item.gtceu.iron_round": "Круглый Пруток из Чугуна",
+
+	"item.gtceu.iron_single_wire": "1x Чугунный Провод",
+	"item.gtceu.iron_double_wire": "2x Чугунный Провод",
+	"item.gtceu.iron_quadruple_wire": "4x Чугунный Провод",
+	"item.gtceu.iron_octal_wire": "8x Чугунный Провод",
+	"item.gtceu.iron_hex_wire": "16x Чугунный Провод",
+	"item.gtceu.iron_single_cable": "1x Чугунный Кабель",
+	"item.gtceu.iron_double_cable": "2x Чугунный Кабель",
+	"item.gtceu.iron_quadruple_cable": "4x Чугунный Кабель",
+	"item.gtceu.iron_octal_cable": "8x Чугунный Кабель",
+	"item.gtceu.iron_hex_cable": "16x Чугунный Кабель",
+
+	"item.gtceu.ice_bucket": "Ведро Ледяной Жижи",
+
+	"item.gtceu.copper_credit": "§71 Кредит",
+	"item.gtceu.cupronickel_credit": "§78 Кредитов",
+	"item.gtceu.silver_credit": "§764 Кредита",
+	"item.gtceu.gold_credit": "§7512 Кредитов",
+	"item.gtceu.platinum_credit": "§74,096 Кредитов",
+	"item.gtceu.osmium_credit": "§732,768 Кредитов",
+	"item.gtceu.naquadah_credit": "§7262,144 Кредита",
+	"item.gtceu.neutronium_credit": "§72,097,152 Кредита"
+}

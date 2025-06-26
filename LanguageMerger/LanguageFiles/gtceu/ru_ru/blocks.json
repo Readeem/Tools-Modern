@@ -1,0 +1,25 @@
+{
+    "block.bud_indicator": "Поверхностный Почточник %s",
+
+    "block.gtceu.nether_dome": "Нетерий",
+    "block.gtceu.end_dome": "Эндерий",
+    "block.gtceu.greenhouse": "Теплица",
+    "block.gtceu.steam_bloomery": "Паровая Доменная Печь",
+
+    "block.gtceu.copper_crate": "Медный Ящик",
+    "block.gtceu.copper_drum": "Медная Бочка",
+    "block.gtceu.black_bronze_crate": "Ящик из Чёрной Бронзы",
+    "block.gtceu.black_bronze_drum": "Бочка из Чёрной Бронзы",
+    "block.gtceu.bismuth_bronze_crate": "Ящик из Висмутовой Бронзы",
+    "block.gtceu.bismuth_bronze_drum": "Бочка из Висмутовой Бронзы",
+
+    "block.gtceu.overworld_marker": "Земля",
+    "block.gtceu.the_nether_marker": "Подобытие",
+
+    "gtceu.nether_dome": "Нетерий",
+    "gtceu.end_dome": "Эндерий",
+    "gtceu.greenhouse": "Электрическая Теплица",
+    "gtceu.steam_bloomery": "Паровая Доменная Печь",
+    "gtceu.food_oven": "Печь для Еды",
+    "gtceu.food_processor": "Пищевой Процессор"
+}
